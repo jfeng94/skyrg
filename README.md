@@ -1,6 +1,8 @@
 # skyrg
 Small vimscript wrapper for fzf + rg search to allow for some search option configuration
 
+NOTE: skyrg is not under active maintenance, nor am I worried about breaking compatibility if I make modifications to it as I play around with it more. I imagine some real world use will help me identify better API patterns. For now, use at your own risk!
+
 # Installation
 Note: Requires the vim plugin `'junngunn/fzf'` and the ripgrep (`rg`) command installed on your system.
 
